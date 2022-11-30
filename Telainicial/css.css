@@ -1,0 +1,14 @@
+#telalogin{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(92, 95, 119);
+}
+#fundo{
+    background-image: url("../Telainicial/Imageem/fundologin.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
